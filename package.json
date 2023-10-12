@@ -1,0 +1,11 @@
+{
+  "name": "Joker",
+  "uuid": "a2f58af9-4131-4390-8dff-a26708f27c79",
+  "creator": {
+    "version": "3.7.3"
+  },
+  "devDependencies": {
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.31"
+  }
+}
